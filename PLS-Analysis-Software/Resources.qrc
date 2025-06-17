@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>Icons/pls.png</file>
+        <file>Icons/CNU_logo.png</file>
+        <file>Icons/Close4.jpg</file>
+        <file>Icons/Train3.png</file>
+        <file>Icons/Predict4.png</file>
+        <file>Icons/Train1e.png</file>
+        <file>Icons/classify3.png</file>
+        <file>Icons/open_folder.jpg</file>
+        <file>Icons/classify8.png</file>
+        <file>Icons/Predict3.png</file>
+        <file>Icons/Train8.jpg</file>
+        <file>Icons/Train7.png</file>
+        <file>Icons/armadillo_logo2.png</file>
+        <file>Icons/Cmake..png</file>
+        <file>Icons/cpp.png</file>
+        <file>Icons/HSILOGO3.png</file>
+        <file>Icons/qt images.png</file>
+        <file>Icons/about3.png</file>
+    </qresource>
+</RCC>
